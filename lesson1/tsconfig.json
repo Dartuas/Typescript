@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
         "target": "es5",
-        "outFile":  ".l1-tool.js"
+        "outFile":  "./l1-tool.js"
 
     },
     "files": [
